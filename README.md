@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">An aspiring Full Stack developer</h3>
 
-- 🔭 I’m currently working on [LinksLSP](https://www.youtube.com/playlist?list=PLJOfOygsv7vsXLZIPCLvt__s33tqN1KjF)
+- 🔭 I’m currently working on [LinksLSP](https://youtu.be/p1jYpWNT3U0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
